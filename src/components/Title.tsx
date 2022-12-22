@@ -8,8 +8,8 @@ import { TreePoints } from "../buttons/TreePoints";
 export function Title() {
 
     return(
-        <div className="bg-slate-200 rounded-2xl border-2">
-            <div className="lg:flex p-8 border-2 rounded-md ">
+        <div className="bg-slate-200 rounded-3xl mx-4 mt-4">
+            <div className="lg:flex p-8 ">
                 <div className="min-w-0 flex-1">
                     <h2 className="text-2xl flex justify-center font-bold leading-7 text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight">
                         Tabela de Status
