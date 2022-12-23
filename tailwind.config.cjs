@@ -14,7 +14,7 @@ module.exports = {
           500: '#7891b7'
         },
         blueNBA: {
-          500: '#0268d6',
+          500: '#6366f1',
         }
       },
       boxShadow: {
@@ -24,6 +24,10 @@ module.exports = {
       spacing: {
         'sidebar': '83vh',
         'navbar' : '8vh',
+      },
+      fontFamily: {
+        'roboto-mono': 'Roboto mono',
+        'open-sans': 'Open Sans'  
       }
     },
   },
