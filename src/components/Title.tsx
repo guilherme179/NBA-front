@@ -1,5 +1,4 @@
 export function Title() {
-
     return(
         <div className="lg:flex p-8 ">
             <div className="min-w-0 flex-1">
